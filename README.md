@@ -20,8 +20,11 @@ Contributor to [nuxt-modules/hanko](https://github.com/nuxt-modules/hanko), [nux
 
 **[Outreach360](https://github.com/outreach360-io)** — Co-founded, bootstrapped, exited. Off-page SEO automation at scale. Still runs today.
 
-## Get in touch
+## Contact
 
-- **Website:** [felixdolderer.com](https://felixdolderer.com)
-- **Bluesky:** [@felixdolderer.com](https://bsky.app/profile/felixdolderer.com)
-- **Email:** mail@felixdolderer.com
+| Get in touch |                                                                  |
+| ------------ | ---------------------------------------------------------------- |
+| Website      | [felixdolderer.com](https://felixdolderer.com)                   |
+| Bluesky      | [@felixdolderer.com](https://bsky.app/profile/felixdolderer.com) |
+| X            | [@felix_dolderer](https://x.com/felix_dolderer)                  |
+| Email        | mail@felixdolderer.com                                           |
