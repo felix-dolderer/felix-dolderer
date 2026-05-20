@@ -1,6 +1,6 @@
 # Hi, I'm Felix
 
-Tech Lead at [Element Logic](https://elementlogic.net) · Co-founder at [Culina Labs](https://culinalabs.com)
+Tech Lead at [Element Logic](https://elementlogic.net) · Playing around at [Culina Labs](https://culinalabs.com)
 
 I build products from first principles — challenge what doesn't work, ship what's worth building. Full-stack, with a focus on AI integration, real-time systems, and interfaces that feel right.
 
